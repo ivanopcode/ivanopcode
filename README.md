@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+📝 Blog posts:
+
+[Approaches to MainActor Isolation with Protocols in Swift](https://github.com/ivalx1s/swift-mainactor_isolation_in_protocol/tree/main)
+
 <!--
 **ivanopcode/ivanopcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
