@@ -12,7 +12,7 @@ I'm Ivan Oparin — a Senior iOS Developer and technical lead with a passion for
 - **[SKL.vc](https://skl.vc/)** — Senior iOS Developer. Shipped EasyGrocer (iOS), Artific (iOS), and Translaitor (macOS) apps.
 - **[Darwell Inc](https://apps.apple.com/us/app/darwell/id6443436209)** — Senior iOS Developer, built camera-based health monitoring apps with SwiftUI & [UDF](https://github.com/ivalx1s/darwin-relux).
 - **[Kaller Communications](https://kaller.io/)** — iOS Developer, focused on early exploration of high-performance SwiftUI [+ UDF library](https://github.com/ivalx1s/darwin-relux).
-- **[Billion Bitcoin Wallet](https://web.archive.org/web/20190114064846/https:/itunes.apple.com/us/app/billion-bitcoin-wallet/id1289435583?mt=8)** — Blockchain Integration Architect, R&D on cryptographic protocols for privacy in Bitcoin/Ethereum wallets.
+- **[Bitcoin Wallet](https://web.archive.org/web/20190114064846/https:/itunes.apple.com/us/app/billion-bitcoin-wallet/id1289435583?mt=8)** — Blockchain Integration Architect, R&D on cryptographic protocols for privacy in Bitcoin wallets.
 
 #### Technical Skills:
 - **Languages:** Swift, Objective-C, C, C++
@@ -20,8 +20,10 @@ I'm Ivan Oparin — a Senior iOS Developer and technical lead with a passion for
 - **Libraries:** Swift Algorithms, Swift Collections, os.log
 - **Tools:** Xcode, Xcodegen, Tuist, Xcode Cloud, Fastlane, Gitlab/Github Actions, Terminal, Console, Figma, Sketch
 
-#### Notable Projects:
+#### Notable Open Source Projects:
 - **Relux:** Maintainer and contributor to a Flux/Redux-like library – ([Swift Relux](https://github.com/ivalx1s/darwin-relux)) – for SwiftUI (Unidirectional Data Flow).
+
+#### Notable Commercial & Product Projects
 - **[Wildberries](https://www.wildberries.ru/):** iOS development for the largest e-commerce platform in Russia and CIS. (2024-2025)
 - **[Unitea](https://apps.apple.com/us/app/unitea/id1454423881):** Large-scale, TikTok-like app for music fans in the USA. (2023-2024)
 - **[EasyGrocer](https://apps.apple.com/tw/app/easygrocer-whole-cart-grocery/id6739968157?l=en-GB):** Feature-rich grocery shopping app for the UAE market. (2025)
