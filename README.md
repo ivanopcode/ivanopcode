@@ -38,12 +38,15 @@ I'm Ivan Oparin — a Senior iOS Developer and technical lead with a passion for
 
 ---
 
-📝 Blog posts:
+📝 Blog posts and dev notes:
 
 ### Swift & Concurrency
 
 - [Approaches to MainActor Isolation with Protocols in Swift](https://github.com/ivalx1s/swift-mainactor_isolation_in_protocol/tree/main) <sub>2025-03-25</sub>
   - [Global Actor Isolation in Swift — Detailed Cases and Examples (by Alexis Grigorev)](https://github.com/ivalx1s/swift_global-actor-isolation_cases) <sub>2025-04-04</sub>
+
+### Developer notes
+- [Manually Download & Install Xcode Simulator Runtimes](https://github.com/ivanopcode/devnote-xcode-manual-runtime-install)
 
 ### Bitcoin & Wallet UX
 
