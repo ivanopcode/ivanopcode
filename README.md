@@ -21,7 +21,8 @@ I'm Ivan Oparin — a Senior iOS Developer and technical lead with a passion for
 - **Tools:** Xcode, Xcodegen, Tuist, Xcode Cloud, Fastlane, Gitlab/Github Actions, Terminal, Console, Figma, Sketch
 
 #### Notable Open Source Projects
-- **[Swift Relux](https://github.com/ivalx1s/darwin-relux):** Maintainer and contributor to a Flux/Redux-like library for SwiftUI (Unidirectional Data Flow).
+- **[Swift Relux](https://github.com/ivalx1s/darwin-relux):** Core maintainer/contributor and co-author to a Flux/Redux-like library for SwiftUI (Unidirectional Data Flow).
+- **[SUINavigation](https://github.com/ivalx1s/SUINavigationFusion):** UIKit-grade navigation to SwiftUI: custom configurable navigation bar, clean api, no NavigationStack bullshit.
 
 #### Notable Commercial & Product Projects
 - **[Wildberries](https://www.wildberries.ru/):** iOS development for the largest e-commerce platform in Russia and CIS. (2024–2025)
