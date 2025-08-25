@@ -30,7 +30,7 @@ I'm Ivan Oparin — a Senior iOS Developer and technical lead with a passion for
 - **[EasyGrocer](https://apps.apple.com/tw/app/easygrocer-whole-cart-grocery/id6739968157?l=en-GB):** Feature-rich grocery shopping app for the UAE market. (2025)
 - **[Artific](https://apps.apple.com/gb/app/artific-launchpad-for-talks/id6502396810):** AI character communications for fun and entertainment. (2024)
 - **[Translaitor](https://translaitor.ai/):** Cross-platform real-time language interpreter app. (2024)
-- **FlowVit:** Remote rPPG health monitoring for B2B health insurance companies. (2021–2022)
+- **[FlowVit](https://):** Remote rPPG health monitoring for B2B health insurance companies. (2021–2022)
 - **[Darwell](https://apps.apple.com/us/app/darwell/id1569853335):** Personal well-being assessment and coaching app (iOS). (2022–2023)
 - **[BreatheWell](https://apps.apple.com/us/app/breathewell-mindfulness/id1593253496):** Customizable breathwork and HRV monitoring (iOS). (2022–2023)
 - **[Squallenge](https://apps.apple.com/us/app/squallenge/id1661289745):** Automatic squat recognition and fitness tracking (iOS). (2022–2023)
