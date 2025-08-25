@@ -48,6 +48,7 @@ I'm Ivan Oparin — a Senior iOS Developer and technical lead with a passion for
 
 ### Developer notes
 - [Manually Download & Install Xcode Simulator Runtimes](https://github.com/ivanopcode/devnote-xcode-manual-runtime-install)
+- [Override macOS Metal “VRAM” Cap on Apple Silicon for Local LLMs](https://github.com/ivanopcode/devnote-override-macos-metal-vram-cap)
 
 ### Bitcoin & Wallet UX
 
