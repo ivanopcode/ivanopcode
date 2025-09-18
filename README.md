@@ -1,10 +1,11 @@
-## Hi there 👋
+## Hi there, Hola, Привет! 👋
 
 I'm Ivan Oparin — a Senior iOS Developer and technical lead with a passion for building robust, modern iOS applications and exploring innovative product experiences. My background spans large-scale e-commerce, healthtech, fintech, ed-tech, food-tech and advanced UTXO blockchain R&D.
 
 - 📍 Digital nomad  
 - 📧 treetop-margins-5c@icloud.com | [LinkedIn](https://linkedin.com/in/ivanoparin)
-- 🎓 Education: BSc in Informatics and Computer Engineering, MSTUCA; Business Informatics coursework, RANEPA
+- 🎓 Education: BSc in Informatics and Computer Engineering, MSTUCA; Business Informatics coursework (7 semesters), RANEPA
+- 🧩 Core Open Source Contributions: [Swift Relux](https://github.com/ivalx1s) architectural library and ecosystem co-author and core maintainer
 
 #### Highlights:
 - **[Wildberries](https://www.wildberries.ru/)** — Senior iOS Developer, contributing to the iOS app for the largest online retailer in the CIS.
@@ -15,7 +16,7 @@ I'm Ivan Oparin — a Senior iOS Developer and technical lead with a passion for
 - **[Bitcoin Wallet](https://web.archive.org/web/20190114064846/https:/itunes.apple.com/us/app/billion-bitcoin-wallet/id1289435583?mt=8)** — Blockchain Integration Architect, R&D on cryptographic protocols for privacy in Bitcoin wallets.
 
 #### Technical Skills:
-- **Languages:** Swift, Objective-C, C, C++
+- **Languages:** Swift, Objective-C, Go, C, C++
 - **Frameworks:** SwiftUI, UIKit, AVFoundation, FoundationModels, TensorFlow, CoreML
 - **Libraries:** Swift Algorithms, Swift Collections, os.log
 - **Tools:** Xcode, Xcodegen, Tuist, Xcode Cloud, Fastlane, Gitlab/Github Actions, Terminal, Console, Figma, Sketch
