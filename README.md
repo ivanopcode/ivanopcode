@@ -48,6 +48,7 @@ I'm Ivan Oparin — a Senior iOS Developer and technical lead with a passion for
   - [Global Actor Isolation in Swift — Detailed Cases and Examples (by Alexis Grigorev)](https://github.com/ivalx1s/swift_global-actor-isolation_cases) <sub>2025-04-04</sub>
 
 ### Developer notes
+- [Swift Threading & Concurrency](https://github.com/ivanopcode/devnote-swift-threading)
 - [Capturing Full Staged Changes with Git](https://github.com/ivanopcode/devnote-git-diff)
 - [Using Git Worktree for Parallel Branch Development](https://github.com/ivanopcode/devnote-git-worktree)
 - [Manually Download & Install Xcode Simulator Runtimes](https://github.com/ivanopcode/devnote-xcode-manual-runtime-install)
