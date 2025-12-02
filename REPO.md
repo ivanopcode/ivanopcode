@@ -36,7 +36,37 @@ There is no automated build pipeline or test suite; edits are plain Markdown.
 - **Preview:** Render the Markdown in your editor (e.g., VS Code `Cmd+Shift+V`) or GitHub’s web preview to confirm heading hierarchy and layout.
 - **Links:** Manually verify that touched links are active and relative paths to assets resolve correctly.
 
-## Git & Commit Conventions
-- **Subject Line:** Short, imperative, and capitalized (e.g., "Add developer note on SwiftUI isolation").
+## Version Control & Commit Conventions
+
+We follow the **Standard Imperative Git Style**. This ensures the project history reads like a distinct changelog
+and matches the built-in conventions of Git tools.
+
+### The Imperative Mood
+
+The subject line (first line) must be phrased as a command. To verify the format, the message must grammatically
+complete the sentence:
+
+> "If applied, this commit will **[Your Subject Line]**"
+
+| Example | Status |
+|---------|--------|
+| `Refactor topology manager to support dual-layer rivers` | ✅ Good |
+| `Refactored topology manager` | ❌ Bad (Past tense) |
+| `Refactoring topology manager` | ❌ Bad (Continuous/Progressive) |
+
+### Message Structure
+
+To ensure readability in both CLI (`git log --oneline`) and GUI clients, strict separation between the summary
+and details is required.
+
+- **Subject (Line 1):** Concise summary, under 50 characters ideal (max 72). No trailing period.
+- **Blank Line (Line 2):** Mandatory. Separates header from body.
+- **Body (Line 3+):** Detailed explanation. Focus on **why** the change was made, not just *how* (the code shows
+  *how*). Wrap text at approx. 72 characters.
+
+### Commit Style
+
+Commit style mirrors history: short (≤72 chars), imperative, single-focus messages (e.g., "Add tests for river
+scoring").
+
 - **Grouping:** Group related edits per commit; do not bundle unrelated content updates.
-- **Pull Requests:** Provide context on what changed and why. Link relevant issues or discussions.
