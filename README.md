@@ -47,6 +47,10 @@ I'm Ivan Oparin — a Senior iOS Developer and technical lead with a passion for
 - [Approaches to MainActor Isolation with Protocols in Swift](https://github.com/ivalx1s/swift-mainactor_isolation_in_protocol/tree/main) <sub>2025-03-25</sub>
   - [Global Actor Isolation in Swift — Detailed Cases and Examples (by Alexis Grigorev)](https://github.com/ivalx1s/swift_global-actor-isolation_cases) <sub>2025-04-04</sub>
 
+### SwiftUI
+
+- [SwiftUI Bindings, Equality, and Identity](https://github.com/ivanopcode/swiftui-article-bindings-equality-identity)
+
 ### Developer notes
 - [Launching Codex with full network and sandbox access](https://github.com/ivanopcode/devnote-codex-full_sandbox)
 - [SwiftUI Transition Removal Bug](https://github.com/ivanopcode/devnote-swiftui--transition-removal-animation-bug/)
