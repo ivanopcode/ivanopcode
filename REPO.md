@@ -70,3 +70,5 @@ Commit style mirrors history: short (≤72 chars), imperative, single-focus mess
 scoring").
 
 - **Grouping:** Group related edits per commit; do not bundle unrelated content updates.
+- **Content Rule:** Commit messages must **only** describe the work done. Do not include authorship references,
+  co-authorship references, tool attribution, or any other information unrelated to the actual changes.
