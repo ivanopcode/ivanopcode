@@ -52,6 +52,7 @@ I'm Ivan Oparin — a Senior iOS Developer and technical lead with a passion for
 - [SwiftUI Bindings, Equality, and Identity](https://github.com/ivanopcode/swiftui-article-bindings-equality-identity)
 
 ### Developer notes
+- [Local Setup Guide for OpenAI gpt-oss Models with Codex CLI, Ollama, LM Studio, and MLX on Apple Silicon](https://github.com/ivanopcode/devnote-codex-gpt-oss-local-guide)
 - [Launching Codex with full network and sandbox access](https://github.com/ivanopcode/devnote-codex-full_sandbox)
 - [SwiftUI Transition Removal Bug](https://github.com/ivanopcode/devnote-swiftui--transition-removal-animation-bug/)
 - [Swift Threading & Concurrency](https://github.com/ivanopcode/devnote-swift-threading)
