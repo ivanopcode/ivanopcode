@@ -1,8 +1,8 @@
 ## Hi there, Hola, Привет! 👋
 
-I'm Ivan Oparin — a Senior iOS Developer and technical lead with a passion for building robust, modern iOS applications and exploring innovative product experiences. My background spans large-scale e-commerce, healthtech, fintech, ed-tech, food-tech and advanced UTXO blockchain R&D.
+I'm Ivan Oparin. A Senior iOS Developer and technical lead with a passion for building robust, modern iOS (macOS, watchOS, tvOS, visionOS) applications and exploring innovative product experiences. My background spans large-scale e-commerce, healthtech, fintech, ed-tech, food-tech and advanced UTXO blockchain R&D.
 
-- 📍 Digital nomad  
+- 📍 Digital nomad, currently hop between Georgia and Armenia 
 - 📧 treetop-margins-5c@icloud.com | [LinkedIn](https://linkedin.com/in/ivanoparin)
 - 🎓 Education: BSc in Informatics and Computer Engineering, MSTUCA; Business Informatics coursework (7 semesters), RANEPA
 - 🧩 Core Open Source Contributions: [Swift Relux](https://github.com/ivalx1s) architectural library and ecosystem co-author and core maintainer
