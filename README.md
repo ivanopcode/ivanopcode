@@ -38,6 +38,11 @@ I'm Ivan Oparin. A Senior iOS Developer and technical lead with a passion for bu
 - **[Bitcoin/Ethereum wallet](https://web.archive.org/web/20190114064846/https:/itunes.apple.com/us/app/billion-bitcoin-wallet/id1289435583?mt=8):** Early adopter of Swift for secure blockchain apps. (2017–2018)
 - **[Turn And Learn](https://apps.apple.com/us/app/t-l-polyglot/id548917415):** Pioneer in iOS ed-tech (2011–2013).
 
+## Agentic Skills
+
+- **[Logbook](https://github.com/ivalx1s/skill-logbook):** Keeps a persistent `LOGBOOK.md` as high-signal
+  institutional memory (findings, decisions, root causes, regressions).
+
 ---
 
 📝 Blog posts and dev notes:
