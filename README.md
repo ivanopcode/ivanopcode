@@ -57,6 +57,7 @@ I'm Ivan Oparin. A Senior iOS Developer and technical lead with a passion for bu
 - [SwiftUI Bindings, Equality, and Identity](https://github.com/ivanopcode/swiftui-article-bindings-equality-identity)
 
 ### Developer notes
+- [SSH + GitHub Agent-Forwarding Tech Note](https://github.com/ivanopcode/devnote-ssh-github-agent-forwarding)
 - [Tailscale Exit Node + Team VPN Forwarding (Failed)](https://github.com/ivanopcode/technote-tailscale-vpn-gated-resources-exit-node/tree/main)
 - [Local Setup Guide for OpenAI gpt-oss Models with Codex CLI, Ollama, LM Studio, and MLX on Apple Silicon](https://github.com/ivanopcode/devnote-codex-gpt-oss-local-guide)
 - [Launching Codex with full network and sandbox access](https://github.com/ivanopcode/devnote-codex-full_sandbox)
