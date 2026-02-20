@@ -57,6 +57,7 @@ I'm Ivan Oparin. A Senior iOS Developer and technical lead with a passion for bu
 - [SwiftUI Bindings, Equality, and Identity](https://github.com/ivanopcode/swiftui-article-bindings-equality-identity)
 
 ### Developer notes
+- [SSH + VNC Key-Only Access on macOS (Tunnel)](https://github.com/ivanopcode/technote-ssh-vnc-key-only)
 - [SSH + GitHub Agent-Forwarding Tech Note](https://github.com/ivanopcode/devnote-ssh-github-agent-forwarding)
 - [macOS Firewall Enablement Tech Note](https://github.com/ivanopcode/devnote-macos-firewall-enablement)
 - [Tailscale Exit Node + Team VPN Forwarding (Failed)](https://github.com/ivanopcode/technote-tailscale-vpn-gated-resources-exit-node/tree/main)
