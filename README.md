@@ -42,6 +42,8 @@ I'm Ivan Oparin. A Senior iOS Developer and technical lead with a passion for bu
 
 - **[Logbook](https://github.com/ivalx1s/skill-logbook):** Keeps a persistent `LOGBOOK.md` as high-signal
   institutional memory (findings, decisions, root causes, regressions).
+- **[telegram-telethon](https://github.com/ivanopcode/telegram-telethon):** Local Telegram skill and CLI for
+  macOS Keychain-backed profile management, folder discovery, and structured chat export with Telethon.
 
 ---
 
