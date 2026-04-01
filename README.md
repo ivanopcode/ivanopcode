@@ -45,6 +45,7 @@ I'm Ivan Oparin. A Senior iOS Developer and technical lead with a passion for bu
 - **[telegram-telethon](https://github.com/ivanopcode/telegram-telethon):** Local Telegram skill and CLI for
   macOS Keychain-backed profile management, folder discovery, and structured chat export with Telethon.
 - **[skill-glab-mr-workflow](https://github.com/ivanopcode/skill-glab-mr-workflow):** GitLab merge request workflow skill for Codex and Claude Code with Keychain-backed `glab` auth, MR status reads, pipeline failure summaries, reviews, manual jobs, and safe create/approve/merge flows.
+- **[skill-youtrack](https://github.com/ivanopcode/skill-youtrack):** YouTrack workflow skill for Codex and Claude Code with Keychain-backed auth, named instances, scoped boards, current sprint tasks, issue reads, comments, field updates, and explicit board or sprint membership flows.
 - **[skill-codex-list-sessions](https://github.com/ivanopcode/skill-codex-list-sessions):** Codex and Claude Code skill for listing recent local Codex sessions with full session IDs, overall discussion summaries, exact trailing user messages, topic search, and exact session lookup.
 
 ---
