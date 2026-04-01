@@ -44,6 +44,7 @@ I'm Ivan Oparin. A Senior iOS Developer and technical lead with a passion for bu
   institutional memory (findings, decisions, root causes, regressions).
 - **[telegram-telethon](https://github.com/ivanopcode/telegram-telethon):** Local Telegram skill and CLI for
   macOS Keychain-backed profile management, folder discovery, and structured chat export with Telethon.
+- **[skill-glab-mr-workflow](https://github.com/ivanopcode/skill-glab-mr-workflow):** GitLab merge request workflow skill for Codex and Claude Code with Keychain-backed `glab` auth, MR status reads, pipeline failure summaries, reviews, manual jobs, and safe create/approve/merge flows.
 
 ---
 
