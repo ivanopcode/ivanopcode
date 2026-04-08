@@ -52,7 +52,7 @@ I'm Ivan Oparin. A Senior iOS Developer and technical lead with a passion for bu
 ## Agentic Infrastructure
 
 - **[go-ai-agent](https://github.com/ivanopcode/go-ai-agent):** *(WIP)* Minimal Go agent runtime — ReAct loop, pluggable tools, single binary.
-- **[cocoaskill](https://github.com/ivanopcode/cocoaskill):** *(WIP)* Dependency manager for AI agent skills. Declarative manifests, reproducible lockfiles, code signing, source audit.
+- **[cocoaskill](https://github.com/ivanopcode/cocoaskill):** *(WIP)* Dependency manager for AI agent skills. Declarative, reproducible, secure.
 
 ---
 
