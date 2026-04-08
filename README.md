@@ -49,6 +49,10 @@ I'm Ivan Oparin. A Senior iOS Developer and technical lead with a passion for bu
 - **[skill-codex-list-sessions](https://github.com/ivanopcode/skill-codex-list-sessions):** Codex and Claude Code skill for listing recent local Codex sessions with full session IDs, overall discussion summaries, exact trailing user messages, topic search, and exact session lookup.
 - **[skill-debug-codex-requests](https://github.com/ivanopcode/skill-debug-codex-requests):** Codex skill for capturing real outgoing provider requests through a local OpenAI-compatible proxy, inspecting `system_prompt` and tool injection, and benchmarking TTFT, warm throughput, and near-context behavior.
 
+## Agentic Infrastructure
+
+- **[go-ai-agent](https://github.com/ivanopcode/go-ai-agent):** Minimal Go agent runtime — ReAct loop, pluggable tools, single binary. Full context control, no MCP, skills over protocols.
+
 ---
 
 📝 Blog posts and dev notes:
