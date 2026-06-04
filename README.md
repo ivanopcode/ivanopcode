@@ -76,6 +76,7 @@ I'm Ivan Oparin. A Senior iOS Developer and technical lead with a passion for bu
 - [Tailscale Exit Node + Team VPN Forwarding (Failed)](https://github.com/ivanopcode/technote-tailscale-vpn-gated-resources-exit-node/tree/main)
 - [Local Setup Guide for OpenAI gpt-oss Models with Codex CLI, Ollama, LM Studio, and MLX on Apple Silicon](https://github.com/ivanopcode/gpt-oss-local-codex-guide)
 - [Qwen3.6-27B на consumer GPU: tech note по сетапам](https://github.com/ivanopcode/qwen36-27b-consumer-gpu-tech-note)
+- [Local LLM Inference](https://github.com/ivanopcode/local-llm-inference): documentation for getting into local LLM inference.
 - [Open Responses Server fork](https://github.com/ivanopcode/open-responses-server/tree/fix/codex-cli-compat): patch set for stabilizing gpt-oss on a llama.cpp + Codex CLI stack via the Responses API bridge, including heartbeat handling for long prompt processing.
 - [Launching Codex with full network and sandbox access](https://github.com/ivanopcode/devnote-codex-full_sandbox)
 - [SwiftUI Transition Removal Bug](https://github.com/ivanopcode/devnote-swiftui--transition-removal-animation-bug/)
