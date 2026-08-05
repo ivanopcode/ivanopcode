@@ -72,6 +72,7 @@ I'm Ivan Oparin. A Senior iOS Developer and technical lead with a passion for bu
 - [SwiftUI Bindings, Equality, and Identity](https://github.com/ivanopcode/swiftui-article-bindings-equality-identity)
 
 ### Developer notes
+- [FirebaseCore + FirebaseCrashlytics XCFramework Builder](https://github.com/ivanopcode/ivanopcode/tree/main/tools/firebase-xcframework-builder): builds static Firebase XCFrameworks and their dependency closure with Firebase's official release tooling.
 - [Synchronizing Two macOS Machines with Nix, nix-darwin, and Home Manager](https://github.com/ivanopcode/devnote-nix-darwin-home-manager-macos-sync)
 - [SSH + VNC Key-Only Access on macOS (Tunnel)](https://github.com/ivanopcode/technote-ssh-vnc-key-only)
 - [SSH + GitHub Agent-Forwarding Tech Note](https://github.com/ivanopcode/devnote-ssh-github-agent-forwarding)
