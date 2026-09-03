@@ -92,6 +92,9 @@ I'm Ivan Oparin. A Senior iOS Developer and technical lead with a passion for bu
 - [Using Git Worktree for Parallel Branch Development](https://github.com/ivanopcode/devnote-git-worktree)
 - [Manually Download & Install Xcode Simulator Runtimes](https://github.com/ivanopcode/devnote-xcode-manual-runtime-install)
 - [Override macOS Metal “VRAM” Cap on Apple Silicon for Local LLMs](https://github.com/ivanopcode/devnote-override-macos-metal-vram-cap)
+- [Engineering Prose Style](https://github.com/ivanopcode/engineering-prose-style): style guide for technical
+  documentation in English and Russian, extracted from The Go Programming Language and The Swift Programming
+  Language, with a blacklist of generated-text patterns and the producer/reviewer discipline that enforces it.
 
 ### Bitcoin & Wallet UX
 
