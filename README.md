@@ -72,6 +72,7 @@ I'm Ivan Oparin. A Senior iOS Developer and technical lead with a passion for bu
 - [SwiftUI Bindings, Equality, and Identity](https://github.com/ivanopcode/swiftui-article-bindings-equality-identity)
 
 ### Developer notes
+- [Podlodka Podcast #501 — Локальные модели для кодинга](https://github.com/ivanopcode/podlodka-501-references): ссылки на ресурсы, обсуждавшиеся в выпуске.
 - [FirebaseCore + FirebaseCrashlytics XCFramework Builder](https://github.com/ivanopcode/ivanopcode/tree/main/tools/firebase-xcframework-builder): builds static Firebase XCFrameworks and their dependency closure with Firebase's official release tooling.
 - [macOS Keychain in tmux and Background Sessions](https://github.com/ivanopcode/devnote-macos-keychain-tmux-sessions)
 - [Synchronizing Two macOS Machines with Nix, nix-darwin, and Home Manager](https://github.com/ivanopcode/devnote-nix-darwin-home-manager-macos-sync)
